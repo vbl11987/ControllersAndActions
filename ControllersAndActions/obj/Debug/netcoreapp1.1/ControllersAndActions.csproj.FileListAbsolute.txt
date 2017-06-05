@@ -1,0 +1,16 @@
+/home/boris/dotnet/ControllersAndActions/bin/Debug/netcoreapp1.1/ControllersAndActions.deps.json
+/home/boris/dotnet/ControllersAndActions/bin/Debug/netcoreapp1.1/ControllersAndActions.runtimeconfig.json
+/home/boris/dotnet/ControllersAndActions/bin/Debug/netcoreapp1.1/ControllersAndActions.runtimeconfig.dev.json
+/home/boris/dotnet/ControllersAndActions/bin/Debug/netcoreapp1.1/ControllersAndActions.dll
+/home/boris/dotnet/ControllersAndActions/bin/Debug/netcoreapp1.1/ControllersAndActions.pdb
+/home/boris/dotnet/ControllersAndActions/obj/Debug/netcoreapp1.1/ControllersAndActions.AssemblyInfo.cs
+/home/boris/dotnet/ControllersAndActions/obj/Debug/netcoreapp1.1/ControllersAndActions.dll
+/home/boris/dotnet/ControllersAndActions/obj/Debug/netcoreapp1.1/ControllersAndActions.pdb
+/home/boris/dotnet/ControllersAndActions/ControllersAndActions/bin/Debug/netcoreapp1.1/ControllersAndActions.deps.json
+/home/boris/dotnet/ControllersAndActions/ControllersAndActions/bin/Debug/netcoreapp1.1/ControllersAndActions.runtimeconfig.json
+/home/boris/dotnet/ControllersAndActions/ControllersAndActions/bin/Debug/netcoreapp1.1/ControllersAndActions.runtimeconfig.dev.json
+/home/boris/dotnet/ControllersAndActions/ControllersAndActions/bin/Debug/netcoreapp1.1/ControllersAndActions.dll
+/home/boris/dotnet/ControllersAndActions/ControllersAndActions/bin/Debug/netcoreapp1.1/ControllersAndActions.pdb
+/home/boris/dotnet/ControllersAndActions/ControllersAndActions/obj/Debug/netcoreapp1.1/ControllersAndActions.AssemblyInfo.cs
+/home/boris/dotnet/ControllersAndActions/ControllersAndActions/obj/Debug/netcoreapp1.1/ControllersAndActions.dll
+/home/boris/dotnet/ControllersAndActions/ControllersAndActions/obj/Debug/netcoreapp1.1/ControllersAndActions.pdb
